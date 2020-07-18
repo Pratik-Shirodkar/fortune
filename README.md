@@ -1,2 +1,3 @@
 # fortune
-A python script which draws fortunes according to user input
+A script coded in Go which draws fortunes according to the system time
+Made while practising Go on progate.com
